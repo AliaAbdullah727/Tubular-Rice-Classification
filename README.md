@@ -69,7 +69,7 @@ The model demonstrates excellent performance on the test set, achieving nearly 9
 ## How to Run
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/AliaAbdullah727/Tubular-Rice-Classification>
     cd <Tubular_Rice_Classification>
     ```
 2.  **Install Dependencies**:
